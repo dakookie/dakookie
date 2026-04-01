@@ -61,8 +61,8 @@
 
 ### 🤝 Let's Connect..!
 
-* <a href="www.linkedin.com/in/damaris-suquillo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-* <a href="mailto:damarissuquillo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+* <a href="www.linkedin.com/in/damaris-suquillo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Damaris Suquillo"></a> 
+* <a href="mailto:damarissuquillo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: damarissuquillo21@gmail.com"></a>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
