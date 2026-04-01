@@ -14,10 +14,10 @@
 
 ### About Me :
 
-* 💻 Estudiante de Noveno Semestre de Ingeniería de Software en la Escuela Politécnica Nacional.
-* ☁️ Certificada como AWS Certified Cloud Practitioner.
-* 🧠 Experiencia en Desarrollo de Software, Metodologías ágiles e Interacción Humano Computador.
-* 🌱 Comprometida con el aprendizaje continuo y el desarrollo de soluciones escalables.
+* 💻 Ninth-semester Software Engineering student at Escuela Politécnica Nacional.
+* ☁️ AWS Certified Cloud Practitioner.
+* 🧠 Experience in Software Development, Agile Methodologies, and Human-Computer Interaction.
+* 🌱 Committed to continuous learning and developing scalable solutions.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -25,29 +25,29 @@
 
 ### </> Skills
 
-* **Languages:**
+* **Languages:**<br>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-* **Front-End Development:**
+* **Front-End Development:**<br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
-* **Back-End Development:**
+* **Back-End Development:**<br>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> 
 
-* **Databases:**
+* **Databases:**<br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
 
-* **Cloud & DevOps:**
+* **Cloud & DevOps:**<br>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> 
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" /> 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
 
-* **Softwares and Tools:**
+* **Softwares and Tools:**<br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
